@@ -27,7 +27,7 @@ You can find more details at: [paper]() | [code]() | [supplementary]()
 Please see our paper for more details.
 
 ## Citation
-If you use this dataset in your work, please do not forget to cite the original *DeformThings4D* paper, and *LRVD* method (we used for remeshing), besides our paper:
+If this dataset is used in your work, please do not forget to cite the original *DeformThings4D* paper, and *LRVD* method (we used for remeshing), besides our paper:
 
 ```
 @article{li20214dcomplete, 
