@@ -55,4 +55,4 @@ If this dataset is used in your work, please do not forget to cite the original 
 
 ## Comments
 - The provided correspondences are not perfect, but in reasonably good quality as shown in the teaser.
-- Please let us know (🐼jing.ren@kaust.edu.sa🐼) if you have any question regarding the dataset.
+- Please let us know (🐼jing.ren@inf.ethz.ch🐼) if you have any question regarding the dataset.
