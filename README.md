@@ -8,7 +8,7 @@ This is a new dataset adapted from [DeformThings4D](https://github.com/rabbityl/
 by [Robin Magnet](http://www.lix.polytechnique.fr/Labo/Robin.Magnet/), [Jing Ren](https://ren-jing.com/), [Olga Sorkine-Hornung](https://igl.ethz.ch/people/sorkine/)
 and [Maks Ovsjanikov](http://www.lix.polytechnique.fr/~maks/).
 
-You can find more details at: [paper]() | [code]() | [supplementary]()
+You can find more details at: [paper]() | [code](https://github.com/RobinMagnet/smoothFM) | [supplementary]()
 
 ## Dataset Details
 - We select **8 humanoid categories** from the original DeformThings4D dataset, including *Crypto, Zlorp, Mannequin,  Drake, Ninja, Prisoner, Pumpkinhulk, Skeletonzombie*, as shown in the teaser figure from left to right respectively. 
