@@ -19,7 +19,7 @@ You can find more details at: [paper]() | [code](https://github.com/RobinMagnet/
 
 
 ## Construction Details
-- We first find the humanoid models in DeformingThings4D dataset wholse largest connected component contains more than 75% vertices (so we do not lose too many details once we only keep the largest connected component, which is easier than stiching disconnected components to get a watertight shape)
+- We first find the humanoid models in DeformingThings4D dataset whose largest connected component contains more than 75% vertices (so we do not lose too many details once we only keep the largest connected component, which is easier than stiching disconnected components to get a watertight shape)
 - For each model, we select poses from provided animations that have large enough variations and save them as ```Xk.obj```, i.e., the k-th frame of the X animation.
 - For each pose we apply LRVD algorithm to remesh it independently (with around 8K vertices) and track the inter-category correspondences
 - We then use [Wrap3D](https://www.russian3dscanner.com/), a commercial software, to wrap different models to the *Crypto* model, from which we can extract the cross-category correspondences.
